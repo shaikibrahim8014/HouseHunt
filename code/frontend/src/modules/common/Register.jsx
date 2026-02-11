@@ -116,7 +116,7 @@ const Register = () => {
                 >
                   <MenuItem value={'Renter'}>Renter (Looking for a home)</MenuItem>
                   <MenuItem value={"Owner"}>Owner (Listing a property)</MenuItem>
-                  <MenuItem value={'Admin'}>Admin</MenuItem>
+
                 </Select>
               </FormControl>
 
